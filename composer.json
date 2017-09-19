@@ -1,0 +1,13 @@
+{
+    "name": "daniilkrok/fillpdf",
+    "description": "Fills the data in the PDF template",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniil Krok",
+            "email": "krokodild@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
