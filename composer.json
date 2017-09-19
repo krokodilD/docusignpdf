@@ -8,6 +8,14 @@
             "email": "krokodild@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "src"
+        ],
+        "psr-4": {
+            "Daniilkrok\\Fillpdf\\": "src/"
+        }
+    }
 }
