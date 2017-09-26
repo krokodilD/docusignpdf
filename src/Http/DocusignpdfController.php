@@ -37,7 +37,7 @@ class DocusignpdfController extends Controller
     public function fillPDF($pdfPathInput, $pdfPathOutput, $fields)
     {
         $pdf = new Fpdm\FPDM($pdfPathInput); // always need insert a path to PDF file
-        $pdf->processingPDF('C:\Program Files (x86)\PDFtk Server\bin\pdftk.exe'); // this is the launch of the pdftk plugin for converting PDF to editable PDF for filling fields.
+        $pdf->processingPDF('pdftk'); // this is the launch of the pdftk plugin for converting PDF to editable PDF for filling fields.
         $pdf->Load($fields, false); // second parameter: false if field values are in ISO-8859-1, true if UTF-8
 
         $pdf->Merge(); // merge fields data with PDF template
