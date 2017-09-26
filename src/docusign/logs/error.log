@@ -1,0 +1,70 @@
+(24/09/2017 15:46:36) error calling webservice, status is:400.
+{
+  "errorCode": "INVALID_REQUEST_BODY",
+  "message": "The request body is missing or improperly formatted. Bad JSON escape sequence: \\O. Path 'documents[0].name', line 7, position 31."
+}
+(25/09/2017 14:38:41) HTTP Status Code: 400.
+{
+  "errorCode": "INVALID_API_VERSION",
+  "message": "The API Version specified is not valid."
+}
+(25/09/2017 14:39:29) HTTP Status Code: 400.
+{
+  "errorCode": "INVALID_API_VERSION",
+  "message": "The API Version specified is not valid."
+}
+(25/09/2017 14:40:11) HTTP Status Code: 400
+{
+  "errorCode": "INVALID_API_VERSION",
+  "message": "The API Version specified is not valid."
+}
+(25/09/2017 14:40:29) HTTP Status Code: 400
+{
+  "errorCode": "INVALID_API_VERSION",
+  "message": "The API Version specified is not valid."
+}
+(25/09/2017 14:40:39) HTTP Status Code: 400
+{
+  "errorCode": "INVALID_API_VERSION",
+  "message": "The API Version specified is not valid."
+}
+(26/09/2017 16:22:03) HTTP Status Code: 400
+{
+  "errorCode": "INVALID_API_VERSION",
+  "message": "The API Version specified is not valid."
+}
+(26/09/2017 16:23:19) HTTP Status Code: 400
+{
+  "errorCode": "INVALID_API_VERSION",
+  "message": "The API Version specified is not valid."
+}
+(26/09/2017 16:23:52) HTTP Status Code: 400
+{
+  "errorCode": "INVALID_API_VERSION",
+  "message": "The API Version specified is not valid."
+}
+(26/09/2017 16:27:07) HTTP Status Code: 400
+{
+  "errorCode": "INVALID_API_VERSION",
+  "message": "The API Version specified is not valid."
+}
+(26/09/2017 16:27:34) HTTP Status Code: 400
+{
+  "errorCode": "INVALID_API_VERSION",
+  "message": "The API Version specified is not valid."
+}
+(26/09/2017 16:31:54) HTTP Status Code: 400
+{
+  "errorCode": "INVALID_API_VERSION",
+  "message": "The API Version specified is not valid."
+}
+(26/09/2017 16:34:06) HTTP Status Code: 400
+{
+  "errorCode": "INVALID_API_VERSION",
+  "message": "The API Version specified is not valid."
+}
+(26/09/2017 16:51:25) HTTP Status Code: 400
+{
+  "errorCode": "INVALID_API_VERSION",
+  "message": "The API Version specified is not valid."
+}

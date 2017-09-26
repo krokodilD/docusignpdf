@@ -1,0 +1,136 @@
+
+Not found fields: [Life1_aaasmiddle_name]
+Not found fields: [Life1_aaasmiddle_name]
+(22/09/2017 17:37:48) |E:\OpenServer\domains\jheapp.loc\zw_form3.pdf| Not found fields: [Life1_aaasmiddle_name]
+(22/09/2017 17:39:09) Not found fields: [Life1_aaasmiddle_name] in |E:\OpenServer\domains\jheapp.loc\zw_form3.pdf|
+(22/09/2017 17:40:20) "C:\Program" ?? ????? ???????? ??? ?????
+????????, ??????? ?????? ??? ?????? ????.
+
+(22/09/2017 17:40:20) PDF file is empty!
+(22/09/2017 17:41:08) Not found fields: [Life1_aaasmiddle_name] in |E:\OpenServer\domains\jheapp.loc\zw_form3.pdf|
+(22/09/2017 18:02:17) Not found fields: [Life1_aaasmiddle_name] in |E:\OpenServer\domains\jheapp.loc\zw_form3.pdf|
+(22/09/2017 18:02:40) Not found fields: [Life1_aaasmiddle_name] in |E:\OpenServer\domains\jheapp.loc\zw_form3.pdf|
+(22/09/2017 18:02:57) Not found fields: [Life1_aaasmiddle_name] in |E:\OpenServer\domains\jheapp.loc\zw_form3.pdf|
+(22/09/2017 18:03:19) Not found fields: [Life1_aaasmiddle_name] in |E:\OpenServer\domains\jheapp.loc\zw_form3.pdf|
+(22/09/2017 18:03:34) Not found fields: [Life1_aaasmiddle_name] in |E:\OpenServer\domains\jheapp.loc\zw_form3.pdf|
+(22/09/2017 18:03:47) "C:\Program" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+(22/09/2017 18:03:47) PDF file is empty!
+(22/09/2017 18:04:45) Not found fields: [Life1_aaasmiddle_name] in |E:\OpenServer\domains\jheapp.loc\zw_form3.pdf|
+(24/09/2017 15:44:50) error calling webservice, status is:400. {
+  "errorCode": "INVALID_REQUEST_BODY",
+  "message": "The request body is missing or improperly formatted. Bad JSON escape sequence: \\O. Path 'documents[0].name', line 7, position 31."
+}
+(24/09/2017 15:45:14) error calling webservice, status is:400. {
+  "errorCode": "INVALID_REQUEST_BODY",
+  "message": "The request body is missing or improperly formatted. Bad JSON escape sequence: \\O. Path 'documents[0].name', line 7, position 31."
+}
+(24/09/2017 15:52:19) Not found fields: [Life1_aaasmiddle_name] in |E:\OpenServer\domains\jheapp.loc\zw_form3.pdf|
+(24/09/2017 15:54:03) Not found fields: [Life1_aaasmiddle_name] in |E:\OpenServer\domains\jheapp.loc\zw_form3.pdf|
+(24/09/2017 16:30:46) Not found fields: [Life1_aaasmiddle_name] in |E:\OpenServer\domains\jheapp.loc\zw_form3.pdf|
+(24/09/2017 16:33:34) Not found fields: [Life1_aaasmiddle_name] in |E:\OpenServer\domains\jheapp.loc\zw_form3.pdf|
+(24/09/2017 16:36:39) Not found fields: [Life1_middle_name, Life1_aaasmiddle_name] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(24/09/2017 16:45:34) Not found fields: [Life1_middle_name] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(24/09/2017 16:45:56) Not found fields: [Life1_middle_name] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(24/09/2017 16:47:01) Not found fields: [Life1_middle_name] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(24/09/2017 16:47:53) Done.  Input errors, so no output created.
+
+(24/09/2017 16:53:36) Done.  Input errors, so no output created.
+
+(24/09/2017 16:53:55) Done.  Input errors, so no output created.
+
+(24/09/2017 16:55:16) Done.  Input errors, so no output created.
+
+(24/09/2017 16:55:36) Done.  Input errors, so no output created.
+
+(24/09/2017 16:56:17) Not found fields: [Life1_middle_name] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(24/09/2017 16:56:42) Not found fields: [Life1_middle_name] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(24/09/2017 16:57:46) Not found fields: [Life1_middle_name] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(25/09/2017 14:25:59) Not found fields: [Life1_middle_name] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(25/09/2017 14:38:40) Not found fields: [Life1_middle_name] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(25/09/2017 14:39:28) Not found fields: [Life1_middle_name] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(25/09/2017 14:40:11) Not found fields: [Life1_middle_name] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(25/09/2017 14:40:28) Not found fields: [Life1_middle_name] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(25/09/2017 14:40:38) Not found fields: [Life1_middle_name] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(25/09/2017 14:43:06) Not found fields: [Life1_middle_name] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(25/09/2017 14:58:44) Not found fields: [Life1_middle_name] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(25/09/2017 15:24:50) Not found fields: [Life1_middle_name] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(25/09/2017 15:30:39) Not found fields: [Life1_middle_name] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(25/09/2017 16:00:54) Done.  Input errors, so no output created.
+
+(25/09/2017 16:03:25) Done.  Input errors, so no output created.
+
+(25/09/2017 16:04:02) Done.  Input errors, so no output created.
+
+(25/09/2017 16:07:42) Done.  Input errors, so no output created.
+
+(25/09/2017 16:08:22) Done.  Input errors, so no output created.
+
+(25/09/2017 16:10:04) Done.  Input errors, so no output created.
+
+(25/09/2017 16:10:15) Done.  Input errors, so no output created.
+
+(25/09/2017 16:11:23) Done.  Input errors, so no output created.
+
+(25/09/2017 16:20:19) Done.  Input errors, so no output created.
+
+(25/09/2017 16:21:52) Done.  Input errors, so no output created.
+
+(25/09/2017 16:23:35) Done.  Input errors, so no output created.
+
+(25/09/2017 16:24:04) Done.  Input errors, so no output created.
+
+(25/09/2017 16:24:05) Done.  Input errors, so no output created.
+
+(25/09/2017 16:29:01) Not found fields: [Life1_middle_name] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(25/09/2017 17:28:28) Not found fields: [Life1_middle_name] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(25/09/2017 18:23:47) Not found fields: [Life1_middle_name] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(25/09/2017 18:28:42) Invalid content type for this FDF file!
+(25/09/2017 18:34:27) "pdftk.exe" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+(25/09/2017 18:38:03) Not found fields: [Life1_middle_name] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(25/09/2017 18:38:38) Not found fields: [Life1_middle_name] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(25/09/2017 18:43:11) Not found fields: [Name, Address] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(26/09/2017 12:27:12) Not found fields: [mapping_template, data] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(26/09/2017 14:27:07) Not found fields: [Life1_name, Life1_sex, Life1_dob_mth, Life1_dob_day, Life1_dob_year] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(26/09/2017 14:30:22) Not found fields: [Life1_name, Life1_sex, Life1_dob_mth, Life1_dob_day, Life1_dob_year] in |E:\OpenServer\domains\jheapp.loc\test.pdf|
+(26/09/2017 14:31:07) Not found fields: [Life1_sex] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 14:33:25) Not found fields: [Life1_sex] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 14:33:54) Not found fields: [Life1_sex] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 14:34:09) Not found fields: [Life1_sex] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 14:34:42) Not found fields: [Life1_sex] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 14:34:59) Not found fields: [Life1_sex] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 14:35:16) Not found fields: [Life1_sex] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 14:37:22) Not found fields: [Life1_sex] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 15:02:08) Not found fields: [Life1_sex] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 15:03:22) Not found fields: [Life1_sex] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 15:28:26) Not found fields: [Life1_sex#0] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 15:30:45) Not found fields: [Life1_sex#0] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 15:31:20) Not found fields: [Life1_sex#0] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 15:31:46) Not found fields: [Life1_sex#0] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 15:32:16) Not found fields: [Life1_sex#0] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 15:34:25) Not found fields: [Life1_sex#0] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 15:53:42) Not found fields: [Life1_sex#0] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 15:54:05) Not found fields: [Life1_sex#0] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 15:55:25) Not found fields: [Life1_sex#0] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 15:56:03) Not found fields: [Life1_sex#0] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 15:58:40) Not found fields: [Life1_sex#0] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 16:00:31) Not found fields: [Life1_sex#0, Life1_sex] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 16:01:01) Not found fields: [Life1_sex] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 16:01:45) Not found fields: [Life1_sex#0, Life1_sex] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 16:03:19) Not found fields: [Life1_sex#0, Life1_sex, Life1_sex#1] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 16:04:48) Not found fields: [Life1_sex#0] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 16:07:35) Not found fields: [Life1_sex#0] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 16:09:55) Not found fields: [Life1_sex#0] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 16:22:02) Not found fields: [Life1_sex#0] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 16:23:18) Not found fields: [Life1_sex#0] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 16:23:51) Not found fields: [Life1_sex#0] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 16:27:06) Not found fields: [Life1_sex#0] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 16:27:33) Not found fields: [Life1_sex#0] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 16:31:53) Not found fields: [Life1_sex#0] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 16:34:05) Not found fields: [Life1_sex#0] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 16:36:24) PDF file is empty!
+(26/09/2017 16:51:24) Not found fields: [Life1_sex] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|
+(26/09/2017 16:51:47) Not found fields: [Life1_sex] in |E:\OpenServer\domains\jheapp.loc\ICC.pdf|

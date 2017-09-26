@@ -1,0 +1,7 @@
+Life1_name=insured/firstName
+Life1_sex=insured/gender|radiobutton*Male*Female
+Life1_dob_mth=insured/birth|substr*0*2
+Life1_dob_day=insured/birth|substr*2*2
+Life1_dob_year=insured/birth|substr*4*4
+Life1_pob_country=insured/birthCountry/name
+Life1_pob_state=insured/birthState/name

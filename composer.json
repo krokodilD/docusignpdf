@@ -1,5 +1,5 @@
 {
-    "name": "daniilkrok/fillpdf",
+    "name": "daniilkrok/docusignpdf",
     "description": "Fills the data in the PDF template",
     "license": "MIT",
     "authors": [
@@ -8,14 +8,13 @@
             "email": "krokodild@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {},
     "autoload": {
-        "classmap": [
-            "src"
-        ],
         "psr-4": {
             "Daniilkrok\\Fillpdf\\": "src/"
         }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/support": "~5"
     }
 }
